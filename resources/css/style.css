@@ -314,7 +314,7 @@ header {
     margin-bottom: 50px;
 }
 
-works-step:last-of-type {
+.works-step:last-of-type {
     margin-bottom: 80px;
 }
 
